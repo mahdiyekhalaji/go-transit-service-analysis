@@ -1,0 +1,186 @@
+date,dow,day_type,line,trips
+2026-08-07,Friday,Weekday,Barrie,34
+2026-08-07,Friday,Weekday,Kitchener,80
+2026-08-07,Friday,Weekday,Lakeshore East,90
+2026-08-07,Friday,Weekday,Lakeshore West,100
+2026-08-07,Friday,Weekday,Milton,20
+2026-08-07,Friday,Weekday,Richmond Hill,9
+2026-08-07,Friday,Weekday,Stouffville,39
+2026-08-08,Saturday,Saturday,Barrie,30
+2026-08-08,Saturday,Saturday,Kitchener,52
+2026-08-08,Saturday,Saturday,Lakeshore East,99
+2026-08-08,Saturday,Saturday,Lakeshore West,74
+2026-08-08,Saturday,Saturday,Stouffville,30
+2026-08-09,Sunday,Sunday,Barrie,30
+2026-08-09,Sunday,Sunday,Kitchener,52
+2026-08-09,Sunday,Sunday,Lakeshore East,97
+2026-08-09,Sunday,Sunday,Lakeshore West,72
+2026-08-09,Sunday,Sunday,Stouffville,30
+2026-08-10,Monday,Weekday,Barrie,34
+2026-08-10,Monday,Weekday,Kitchener,80
+2026-08-10,Monday,Weekday,Lakeshore East,88
+2026-08-10,Monday,Weekday,Lakeshore West,96
+2026-08-10,Monday,Weekday,Milton,20
+2026-08-10,Monday,Weekday,Richmond Hill,9
+2026-08-10,Monday,Weekday,Stouffville,39
+2026-08-11,Tuesday,Weekday,Barrie,34
+2026-08-11,Tuesday,Weekday,Kitchener,80
+2026-08-11,Tuesday,Weekday,Lakeshore East,88
+2026-08-11,Tuesday,Weekday,Lakeshore West,96
+2026-08-11,Tuesday,Weekday,Milton,20
+2026-08-11,Tuesday,Weekday,Richmond Hill,9
+2026-08-11,Tuesday,Weekday,Stouffville,39
+2026-08-12,Wednesday,Weekday,Barrie,34
+2026-08-12,Wednesday,Weekday,Kitchener,80
+2026-08-12,Wednesday,Weekday,Lakeshore East,88
+2026-08-12,Wednesday,Weekday,Lakeshore West,96
+2026-08-12,Wednesday,Weekday,Milton,20
+2026-08-12,Wednesday,Weekday,Richmond Hill,9
+2026-08-12,Wednesday,Weekday,Stouffville,39
+2026-08-13,Thursday,Weekday,Barrie,34
+2026-08-13,Thursday,Weekday,Kitchener,80
+2026-08-13,Thursday,Weekday,Lakeshore East,88
+2026-08-13,Thursday,Weekday,Lakeshore West,96
+2026-08-13,Thursday,Weekday,Milton,20
+2026-08-13,Thursday,Weekday,Richmond Hill,9
+2026-08-13,Thursday,Weekday,Stouffville,39
+2026-08-14,Friday,Weekday,Barrie,34
+2026-08-14,Friday,Weekday,Kitchener,79
+2026-08-14,Friday,Weekday,Lakeshore East,90
+2026-08-14,Friday,Weekday,Lakeshore West,100
+2026-08-14,Friday,Weekday,Milton,20
+2026-08-14,Friday,Weekday,Richmond Hill,9
+2026-08-14,Friday,Weekday,Stouffville,45
+2026-08-15,Saturday,Saturday,Kitchener,32
+2026-08-15,Saturday,Saturday,Lakeshore East,99
+2026-08-15,Saturday,Saturday,Lakeshore West,108
+2026-08-15,Saturday,Saturday,Stouffville,36
+2026-08-16,Sunday,Sunday,Kitchener,32
+2026-08-16,Sunday,Sunday,Lakeshore East,97
+2026-08-16,Sunday,Sunday,Lakeshore West,106
+2026-08-16,Sunday,Sunday,Stouffville,36
+2026-08-17,Monday,Weekday,Barrie,26
+2026-08-17,Monday,Weekday,Kitchener,80
+2026-08-17,Monday,Weekday,Lakeshore East,88
+2026-08-17,Monday,Weekday,Lakeshore West,96
+2026-08-17,Monday,Weekday,Milton,20
+2026-08-17,Monday,Weekday,Richmond Hill,9
+2026-08-17,Monday,Weekday,Stouffville,39
+2026-08-18,Tuesday,Weekday,Barrie,29
+2026-08-18,Tuesday,Weekday,Kitchener,80
+2026-08-18,Tuesday,Weekday,Lakeshore East,88
+2026-08-18,Tuesday,Weekday,Lakeshore West,96
+2026-08-18,Tuesday,Weekday,Milton,20
+2026-08-18,Tuesday,Weekday,Richmond Hill,9
+2026-08-18,Tuesday,Weekday,Stouffville,39
+2026-08-19,Wednesday,Weekday,Barrie,29
+2026-08-19,Wednesday,Weekday,Kitchener,80
+2026-08-19,Wednesday,Weekday,Lakeshore East,88
+2026-08-19,Wednesday,Weekday,Lakeshore West,96
+2026-08-19,Wednesday,Weekday,Milton,20
+2026-08-19,Wednesday,Weekday,Richmond Hill,9
+2026-08-19,Wednesday,Weekday,Stouffville,39
+2026-08-20,Thursday,Weekday,Barrie,29
+2026-08-20,Thursday,Weekday,Kitchener,80
+2026-08-20,Thursday,Weekday,Lakeshore East,89
+2026-08-20,Thursday,Weekday,Lakeshore West,98
+2026-08-20,Thursday,Weekday,Milton,20
+2026-08-20,Thursday,Weekday,Richmond Hill,9
+2026-08-20,Thursday,Weekday,Stouffville,39
+2026-08-21,Friday,Weekday,Barrie,34
+2026-08-21,Friday,Weekday,Kitchener,80
+2026-08-21,Friday,Weekday,Lakeshore East,94
+2026-08-21,Friday,Weekday,Lakeshore West,108
+2026-08-21,Friday,Weekday,Milton,20
+2026-08-21,Friday,Weekday,Richmond Hill,9
+2026-08-21,Friday,Weekday,Stouffville,40
+2026-08-22,Saturday,Saturday,Barrie,30
+2026-08-22,Saturday,Saturday,Kitchener,52
+2026-08-22,Saturday,Saturday,Lakeshore East,100
+2026-08-22,Saturday,Saturday,Lakeshore West,111
+2026-08-22,Saturday,Saturday,Stouffville,30
+2026-08-23,Sunday,Sunday,Barrie,30
+2026-08-23,Sunday,Sunday,Kitchener,52
+2026-08-23,Sunday,Sunday,Lakeshore East,98
+2026-08-23,Sunday,Sunday,Lakeshore West,109
+2026-08-23,Sunday,Sunday,Stouffville,30
+2026-08-24,Monday,Weekday,Barrie,34
+2026-08-24,Monday,Weekday,Kitchener,80
+2026-08-24,Monday,Weekday,Lakeshore East,92
+2026-08-24,Monday,Weekday,Lakeshore West,106
+2026-08-24,Monday,Weekday,Milton,20
+2026-08-24,Monday,Weekday,Richmond Hill,9
+2026-08-24,Monday,Weekday,Stouffville,40
+2026-08-25,Tuesday,Weekday,Barrie,34
+2026-08-25,Tuesday,Weekday,Kitchener,80
+2026-08-25,Tuesday,Weekday,Lakeshore East,92
+2026-08-25,Tuesday,Weekday,Lakeshore West,106
+2026-08-25,Tuesday,Weekday,Milton,20
+2026-08-25,Tuesday,Weekday,Richmond Hill,9
+2026-08-25,Tuesday,Weekday,Stouffville,40
+2026-08-26,Wednesday,Weekday,Barrie,34
+2026-08-26,Wednesday,Weekday,Kitchener,80
+2026-08-26,Wednesday,Weekday,Lakeshore East,92
+2026-08-26,Wednesday,Weekday,Lakeshore West,106
+2026-08-26,Wednesday,Weekday,Milton,20
+2026-08-26,Wednesday,Weekday,Richmond Hill,9
+2026-08-26,Wednesday,Weekday,Stouffville,40
+2026-08-27,Thursday,Weekday,Barrie,34
+2026-08-27,Thursday,Weekday,Kitchener,80
+2026-08-27,Thursday,Weekday,Lakeshore East,92
+2026-08-27,Thursday,Weekday,Lakeshore West,106
+2026-08-27,Thursday,Weekday,Milton,20
+2026-08-27,Thursday,Weekday,Richmond Hill,9
+2026-08-27,Thursday,Weekday,Stouffville,40
+2026-08-28,Friday,Weekday,Barrie,34
+2026-08-28,Friday,Weekday,Kitchener,80
+2026-08-28,Friday,Weekday,Lakeshore East,94
+2026-08-28,Friday,Weekday,Lakeshore West,108
+2026-08-28,Friday,Weekday,Milton,20
+2026-08-28,Friday,Weekday,Richmond Hill,9
+2026-08-28,Friday,Weekday,Stouffville,40
+2026-08-29,Saturday,Saturday,Barrie,30
+2026-08-29,Saturday,Saturday,Kitchener,52
+2026-08-29,Saturday,Saturday,Lakeshore East,100
+2026-08-29,Saturday,Saturday,Lakeshore West,111
+2026-08-29,Saturday,Saturday,Stouffville,30
+2026-08-30,Sunday,Sunday,Barrie,30
+2026-08-30,Sunday,Sunday,Kitchener,52
+2026-08-30,Sunday,Sunday,Lakeshore East,98
+2026-08-30,Sunday,Sunday,Lakeshore West,109
+2026-08-30,Sunday,Sunday,Stouffville,30
+2026-08-31,Monday,Weekday,Barrie,34
+2026-08-31,Monday,Weekday,Kitchener,80
+2026-08-31,Monday,Weekday,Lakeshore East,92
+2026-08-31,Monday,Weekday,Lakeshore West,106
+2026-08-31,Monday,Weekday,Milton,20
+2026-08-31,Monday,Weekday,Richmond Hill,9
+2026-08-31,Monday,Weekday,Stouffville,40
+2026-09-01,Tuesday,Weekday,Barrie,34
+2026-09-01,Tuesday,Weekday,Kitchener,80
+2026-09-01,Tuesday,Weekday,Lakeshore East,92
+2026-09-01,Tuesday,Weekday,Lakeshore West,106
+2026-09-01,Tuesday,Weekday,Milton,20
+2026-09-01,Tuesday,Weekday,Richmond Hill,9
+2026-09-01,Tuesday,Weekday,Stouffville,40
+2026-09-02,Wednesday,Weekday,Barrie,34
+2026-09-02,Wednesday,Weekday,Kitchener,80
+2026-09-02,Wednesday,Weekday,Lakeshore East,92
+2026-09-02,Wednesday,Weekday,Lakeshore West,106
+2026-09-02,Wednesday,Weekday,Milton,20
+2026-09-02,Wednesday,Weekday,Richmond Hill,9
+2026-09-02,Wednesday,Weekday,Stouffville,40
+2026-09-03,Thursday,Weekday,Barrie,34
+2026-09-03,Thursday,Weekday,Kitchener,80
+2026-09-03,Thursday,Weekday,Lakeshore East,92
+2026-09-03,Thursday,Weekday,Lakeshore West,106
+2026-09-03,Thursday,Weekday,Milton,20
+2026-09-03,Thursday,Weekday,Richmond Hill,9
+2026-09-03,Thursday,Weekday,Stouffville,40
+2026-09-04,Friday,Weekday,Barrie,34
+2026-09-04,Friday,Weekday,Kitchener,80
+2026-09-04,Friday,Weekday,Lakeshore East,94
+2026-09-04,Friday,Weekday,Lakeshore West,108
+2026-09-04,Friday,Weekday,Milton,20
+2026-09-04,Friday,Weekday,Richmond Hill,9
+2026-09-04,Friday,Weekday,Stouffville,40

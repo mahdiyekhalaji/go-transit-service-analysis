@@ -1,0 +1,40 @@
+day_label,line,period,departures,mean_headway_min,median_headway_min,max_gap_min
+Saturday,Lakeshore East,Midday (09:00-15:00),13,30,30,30
+Saturday,Lakeshore East,PM peak (15:00-19:00),16,16,15,30
+Saturday,Lakeshore East,Evening (after 19:00),22,17,15,30
+Saturday,Lakeshore West,Midday (09:00-15:00),15,26,30,30
+Saturday,Lakeshore West,PM peak (15:00-19:00),17,15,15,30
+Saturday,Lakeshore West,Evening (after 19:00),23,16,15,30
+Saturday,Stouffville,Midday (09:00-15:00),9,41,30,60
+Saturday,Stouffville,PM peak (15:00-19:00),5,60,60,60
+Saturday,Stouffville,Evening (after 19:00),6,60,60,60
+Sunday,Lakeshore East,Midday (09:00-15:00),13,30,30,30
+Sunday,Lakeshore East,PM peak (15:00-19:00),16,16,15,30
+Sunday,Lakeshore East,Evening (after 19:00),21,16,15,30
+Sunday,Lakeshore West,Midday (09:00-15:00),15,26,30,30
+Sunday,Lakeshore West,PM peak (15:00-19:00),17,15,15,30
+Sunday,Lakeshore West,Evening (after 19:00),22,16,15,30
+Sunday,Stouffville,Midday (09:00-15:00),9,45,45,60
+Sunday,Stouffville,PM peak (15:00-19:00),5,60,60,60
+Sunday,Stouffville,Evening (after 19:00),6,60,60,60
+Weekday,Barrie,Midday (09:00-15:00),5,61,64,67
+Weekday,Barrie,PM peak (15:00-19:00),9,36,38,61
+Weekday,Barrie,Evening (after 19:00),2,66,66,66
+Weekday,Kitchener,AM peak (06:00-09:00),6,27,30,30
+Weekday,Kitchener,Midday (09:00-15:00),13,29,30,30
+Weekday,Kitchener,PM peak (15:00-19:00),14,18,17,30
+Weekday,Kitchener,Evening (after 19:00),10,33,30,60
+Weekday,Lakeshore East,AM peak (06:00-09:00),6,31,30,37
+Weekday,Lakeshore East,Midday (09:00-15:00),13,31,30,41
+Weekday,Lakeshore East,PM peak (15:00-19:00),16,16,10,30
+Weekday,Lakeshore East,Evening (after 19:00),12,30,30,32
+Weekday,Lakeshore West,AM peak (06:00-09:00),6,31,30,37
+Weekday,Lakeshore West,Midday (09:00-15:00),14,28,30,30
+Weekday,Lakeshore West,PM peak (15:00-19:00),19,13,12,30
+Weekday,Lakeshore West,Evening (after 19:00),12,27,30,43
+Weekday,Milton,PM peak (15:00-19:00),9,21,15,30
+Weekday,Milton,Evening (after 19:00),2,45,45,45
+Weekday,Richmond Hill,PM peak (15:00-19:00),5,45,45,60
+Weekday,Stouffville,Midday (09:00-15:00),6,60,60,60
+Weekday,Stouffville,PM peak (15:00-19:00),9,32,31,60
+Weekday,Stouffville,Evening (after 19:00),7,58,60,61

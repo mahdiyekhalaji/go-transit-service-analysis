@@ -1,0 +1,23 @@
+line,period,Saturday,Sunday,Weekday
+Barrie,Midday (09:00-15:00),0,0,5
+Barrie,PM peak (15:00-19:00),0,0,8
+Barrie,Evening (after 19:00),0,0,1
+Kitchener,AM peak (06:00-09:00),0,0,6
+Kitchener,Midday (09:00-15:00),0,0,12
+Kitchener,PM peak (15:00-19:00),0,0,13
+Kitchener,Evening (after 19:00),0,0,9
+Lakeshore East,AM peak (06:00-09:00),1,1,6
+Lakeshore East,Midday (09:00-15:00),12,12,12
+Lakeshore East,PM peak (15:00-19:00),15,15,15
+Lakeshore East,Evening (after 19:00),21,20,11
+Lakeshore West,AM peak (06:00-09:00),1,1,6
+Lakeshore West,Midday (09:00-15:00),14,14,13
+Lakeshore West,PM peak (15:00-19:00),16,16,18
+Lakeshore West,Evening (after 19:00),22,21,11
+Milton,PM peak (15:00-19:00),0,0,9
+Milton,Evening (after 19:00),0,0,1
+Richmond Hill,PM peak (15:00-19:00),0,0,5
+Stouffville,AM peak (06:00-09:00),1,1,0
+Stouffville,Midday (09:00-15:00),8,8,6
+Stouffville,PM peak (15:00-19:00),4,4,8
+Stouffville,Evening (after 19:00),5,5,6
